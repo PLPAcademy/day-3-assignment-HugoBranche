@@ -37,6 +37,19 @@ B) flutter build
 C) flutter run
 D) flutter init
 
+1)What is the first step for installing Dart on a Windows machine?
+
+B) Download the Dart SDK
+2)Which command verifies the Dart installation on macOS?
+
+D) dart --version
+3)What is the next step after downloading and extracting the Flutter SDK on Linux?
+
+B) Update your PATH
+4)What command is used to run a newly created Flutter app?
+
+C) flutter run
+
 
 #Python Installation
 
@@ -75,6 +88,18 @@ B) To install Python in a different directory
 C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
 
+
+What is the first step to install Python on a Windows system?
+B) Download Python from the official website
+
+Which option should you ensure is checked during Python installation on Windows?
+C) Add Python to PATH
+
+How do you verify Python installation on any system?
+A) By running python --version
+
+What command is used to install pip on macOS and Linux?
+C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 #MySQL Installation
 
 What is the first step to install MySQL on Windows?
